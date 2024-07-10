@@ -1,5 +1,5 @@
-var lang = localStorage.getItem('lang');
-var theme = localStorage.getItem('theme');
+js/script.js()var lang = localStorage.getItem('lang');
+var theme = localStorage.getItem('theme'theme');
 $(document).ready(function() {
 	$('#switch-lang').on('click', function() {
 	    event.preventDefault();

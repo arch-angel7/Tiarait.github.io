@@ -13,7 +13,7 @@ var textDataAbout = {
         "about": "About me",
         "logo": "./assets/img/profile.jpg",
 	    "about-desc": "Welcome. I am a developer from <b>🇺🇦Ukraine</b>. If you have proposals for development - write to me.<br>I have experience in development both for <b>Android TV</b> and for mobile devices, for example <b>Http server</b> (see . in <b>Google Play</b>), I also have experience in creating various <b>web parsers and clients</b>",
-        "link": "https://raw.githubusercontent.com/Tiarait/Tiarait.github.io/master/README.md",
+        "link": "https://raw.githubuserjs/script.jscontent.com/Tiarait/Tiarait.github.io/master/README.md",
         "links": ${linksDataAbout}
     }`,
     ru: `{
